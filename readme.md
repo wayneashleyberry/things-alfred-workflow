@@ -6,19 +6,19 @@ This workflow embeds the binary from [github.com/wayneashleyberry/things](https:
 
 ### Add
 
-<div style="text-align:center"><img width="593" alt="screen shot 2018-02-23 at 15 09 30" src="https://user-images.githubusercontent.com/727262/36595641-a118071e-18ab-11e8-8ef0-e284c586f9df.png"></div>
+<img width="593" alt="screen shot 2018-02-23 at 15 09 30" src="https://user-images.githubusercontent.com/727262/36595641-a118071e-18ab-11e8-8ef0-e284c586f9df.png">
 
 Add a new to-do to the Inbox.
 
 ### Search
 
-<div style="text-align:center"><img width="593" alt="screen shot 2018-02-23 at 15 09 40" src="https://user-images.githubusercontent.com/727262/36595640-a0e5e13a-18ab-11e8-9860-b77c5694f52d.png"></div>
+<img width="593" alt="screen shot 2018-02-23 at 15 09 40" src="https://user-images.githubusercontent.com/727262/36595640-a0e5e13a-18ab-11e8-9860-b77c5694f52d.png">
 
 Search for anything.
 
 ### Show
 
-<div style="text-align:center"><img width="593" alt="screen shot 2018-02-23 at 15 09 48" src="https://user-images.githubusercontent.com/727262/36595639-a0ae7ef2-18ab-11e8-9a97-a50b68fcbc4f.png"></div>
+<img width="593" alt="screen shot 2018-02-23 at 15 09 48" src="https://user-images.githubusercontent.com/727262/36595639-a0ae7ef2-18ab-11e8-9a97-a50b68fcbc4f.png">
 
 Show an area, project, tag or a built-in list.
 
