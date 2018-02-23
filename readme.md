@@ -1,4 +1,4 @@
-> A simple [Alfred](https://www.alfredapp.com/) Workflow for [Things 3.4](https://culturedcode.com/things/blog/2018/02/hey-things/)
+> A simple [Alfred Workflow](https://www.alfredapp.com/workflows/) for [Things 3.4](https://culturedcode.com/things/blog/2018/02/hey-things/)
 
 This workflow embeds the binary from [github.com/wayneashleyberry/things](https://github.com/wayneashleyberry/things) and exposes some of its functionality through keywords.
 
