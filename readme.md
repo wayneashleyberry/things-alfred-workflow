@@ -2,7 +2,7 @@
 
 This workflow embeds the binary from [github.com/wayneashleyberry/things](https://github.com/wayneashleyberry/things) and exposes some of its functionality through keywords.
 
-[Download the workflow](https://github.com/wayneashleyberry/things-alfred-workflow/archive/master.zip)
+[Download the latest release](https://github.com/wayneashleyberry/things-alfred-workflow/releases/latest)
 
 ### Add
 
